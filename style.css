@@ -1,5 +1,15 @@
 #apresentacoes {
-    color: hsl(186, 100%, 51%);
+    color: hsl(0, 0%, 0%);
     font-family: montserrat;
     font-weight: bold;
+    text-align: center;
+}
+#title {
+    color: rgb(1, 58, 14);
+    text-align: center;
+}
+select {
+  background-image: url("C:\Users\arthu\OneDrive\Pictures\photo-1493673272479-a20888bcee10.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; /* faz a imagem preencher a tela */
 }
