@@ -17,6 +17,6 @@
 }
 body {
     background-image: url('folha.jpg');
-    background-size: cover; /* Faz a imagem ocupar toda a tela */
-    background-repeat: no-repeat; /* Evita que a imagem se repita */
+    background-size: cover; 
+    background-repeat: no-repeat;
 }
