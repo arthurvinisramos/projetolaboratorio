@@ -15,3 +15,8 @@ body {
     background-size: cover; 
     background-repeat: no-repeat;
 }
+.minha-classe{
+  width: 300px;    /* largura da imagem */
+  height: auto;    /* altura automática pra não deformar */
+  display: block;  /* transforma em bloco pra poder centralizar */
+  margin: 0 auto;  /* centraliza horizontalmente */}
